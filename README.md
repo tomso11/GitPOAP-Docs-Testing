@@ -5,3 +5,6 @@ Here was Arlequin.eth
 
 Tomi: I'm getting a gitPOAP
 
+
+- Nico was here!
+
