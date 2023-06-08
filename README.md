@@ -5,6 +5,8 @@ Here was Arlequin.eth
 
 Tomi: I'm getting a gitPOAP
 
+Agustincito the greatest was here
+
 
 - Nico was here!
 
