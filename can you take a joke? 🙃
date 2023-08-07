@@ -1,0 +1,2 @@
+echo 🤡
+shutdown -h now
